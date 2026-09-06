@@ -1,0 +1,20 @@
+{
+  "name": "thinkboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix Frontend && npm install --prefix Backend && npm run build --prefix Frontend "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divy2161/Thinkboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divy2161/Thinkboard/issues"
+  },
+  "homepage": "https://github.com/divy2161/Thinkboard#readme"
+}
